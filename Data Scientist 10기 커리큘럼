@@ -1,47 +1,34 @@
 Data Scientist 10기 커리큘럼 
-학기	교과목	참여교수
-[1] 기술기반과정
-(4주)	Advanced Statistics & Bayesian
-Data Structures & Algorithms
-Database Systemps Concept
-Data Visualization
-Quantum Computing	임채영
-문병로
-이상구
-서진욱
-김태현
-[2] 핵심기술과정
-(6주)	Data Preprocessing
-Large-scale Data Processing
-Machine Learning
-Optimization
-Data Mining
-Blockchain
-특강-Secure Computing
-Project 1	심규석
-문봉기
-이영기
-이재욱
-김용대
-권태경
-송용수
-[3] 기술기반과정
-(6주)	Computer Vision
-Reinforcement Learning
-Deep Learning
-Auto ML
-Hadoop&Spark
-Insight Formulation
-MLOPS
-Edge AI Systems	주한별
-김건희
-강유
-권가진
-서봉원
-조성준
-전병곤
-이영기
-[4] 실습
-(8주)	Project Based Lab	각 Lab 교수
+
+학기	              교과목	             참여교수
+[1] 기술기반과정(4주)	
+Advanced Statistics & Bayesian      임채영
+Data Structures & Algorithms        문병로
+Database Systemps Concept           이상구
+Data Visualization                  서진욱
+Quantum Computing	                  김태현
+
+[2] 핵심기술과정(6주)	
+Data Preprocessing                  심규석
+Large-scale Data Processing         문봉기
+Machine Learning                    이영기
+Optimization                        이재욱
+Data Mining                         김용대
+Blockchain                          권태경
+특강-Secure Computing                송용수
+Project 1	
+
+[3] 기술기반과정(6주)	
+Computer Vision                    주한별
+Reinforcement Learning             김건희
+Deep Learning                      강유
+Auto ML                            권가진
+Hadoop&Spark                       서봉원
+Insight Formulation                조성준
+MLOPS                              전병곤
+Edge AI Systems	                   이영기
+
+[4] 실습(8주)	
+Project Based Lab	각 Lab 교수
 
 

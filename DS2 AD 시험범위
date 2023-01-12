@@ -1,0 +1,40 @@
+Python			
+	Python String & Object		
+		함수와 문자열 다루기	
+		객체 지향 프로그래밍(OOP)	
+		모듈과 패키지	
+		예외처리와 파일 핸들링	
+		로그와 Argparser	자주 사용 X
+	Python for Data Analysis		
+		Data Handling	Web, RegEx, XML, JSON
+		ML Overview and Python Ecosystem	
+		Numpy	
+		Pandas	
+	Python for Visualization		
+		Data Visualization	Matplotlib, Seaborn
+		시계열 데이터 처리	
+		데이터 전처리 실습	
+
+SQL			
+	SQL 기초		
+		SQL 소개	DML query
+		SELECT 쿼리 이용	
+		집합, 기초통계량 이용	
+		테이블 관계 이용	
+		String and Date	
+
+통계 with Python			
+		통계 기본	
+		분포와 검정	
+
+ML 입문			
+	Introduction to Data Analytics		
+		데이터 기반 의사결정	
+		활용 사례	
+	Supervised Learning		
+		다중선형회귀분석	
+		로지스틱 회귀분석	
+		성능 평가	
+		의사결정나무	
+	Unsupervised Learning		
+		군집화	K-means, 계층적, DBSCAN
